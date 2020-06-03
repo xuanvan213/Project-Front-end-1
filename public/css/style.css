@@ -1,0 +1,592 @@
+@media screen and (max-width: 768px) {
+
+    /* For mobile phones: */
+    .navbar{
+        margin-left: 30px;
+    }
+    .duoi1{
+        
+        width: 30% !important;
+    }
+    .put
+    {
+        padding-left: 38% !important;
+    }
+    body
+    {
+        background-size: 95% !important;
+        width: auto;
+    }
+    .tieude4
+    {
+        font-size: 100% !important;
+        width: auto !important;
+    }
+    
+}
+.page1 header
+{
+    margin-top: 50px;
+    display: flex;
+}
+.logo a
+{
+    font-family: 'Vladimir Script';
+    font-style: italic;
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: white !important;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-left: 15%;
+}
+.nav-item
+{
+    padding: 10px;
+}
+.nav-link
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding-left: 0 5px !important;
+    font-size: 20px;
+}
+.nav-link:hover, .nav-link::after
+{
+    color: rgb(66, 65, 65);
+}
+.dropdown-item
+{
+    border-bottom: 1px dotted gray !important;
+    padding: 5px 10px;
+    color: yellow;
+}
+.dropdown-item:hover
+{
+font-size: 120%;
+}
+.collapse
+{
+    padding-left: 20%;
+}
+.tren1 h2{
+    font-family: 'Vladimir Script';
+    font-size: 3.5rem;
+    
+    font-weight: bold;
+ 
+}
+.tren1{
+    margin-left: 5%;
+    color: white;
+    width: 50%;
+    margin-top: 10%;
+}
+.duoi1 a, .duoi1 a:hover
+{
+    text-decoration: none;
+    color: white !important;
+}
+.duoi1{
+    background: #f65a3a;
+   
+    width: 20%;
+    margin-left: 5%;
+    border-radius: 50px;
+    padding: 15px;
+    text-align: center;
+    margin: 80px 10%;
+}
+.content
+{
+    padding-bottom: 5%;
+}
+.duoi1:hover{
+    background:black;
+}
+.tieude
+{
+    text-align: center;
+    color: black;
+    font-size: 120%;
+    font-weight: normal;
+}
+
+.hinh1{
+    background-image: url("../images/md31.jpg");
+    background-repeat: no-repeat;
+    width:100%;
+    height: 100%;
+    margin:auto;
+    text-align: left;
+}
+.hinh1 h6, .hinh2 h6, .hinh3 h6, .hinh4 h6{
+    padding-top: 95%;
+    color:white;
+    padding-left: 5%;
+}
+.hinh2{
+    background-image: url("../images/md32.jpg");
+    background-repeat: no-repeat;
+    width:100%;
+    height: 100%;
+    margin:auto;
+    text-align: left;
+}
+.hinh3{
+    background-image: url("../images/md33.jpg");
+    background-repeat: no-repeat;
+    width:100%;
+    height: 100%;
+    margin:auto;
+    text-align: left;
+}
+.hinh4{
+    background-image: url("../images/md34.jpg");
+    background-repeat: no-repeat;
+    width:100%;
+    height: 100%;
+    margin:auto;
+    text-align: left;
+}
+.page2 .col-md-3, .page2, .page3, .page4
+{
+    padding: 95px 0;
+}
+.page3
+{
+    background:#f5f3f4;
+}
+.tieude h5
+{
+    color: rgb(92, 90, 90);
+}
+.page3 .col-md-4
+{
+    display: flex;
+}
+.page3 .col-md-4 a{
+  
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+.page3 .col-md-4 p{
+    color: #a3a1a2;
+    padding-top: 20px;
+}
+.page3 .col-md-4 img{
+    width: 50%;
+    height: 40%;
+    padding-right: 40px;
+}
+.page3 .col-md-4 a:hover
+{
+    color: #f65a3a;
+    text-decoration: none;
+}
+.page4
+{
+    background:white;
+}
+.tieude4
+{
+    display: flex;
+    font-size: 45px;
+    padding-left: 23%;
+    color: black;
+    
+}
+.a4
+{
+    font-weight: bold;
+}
+.tieude4duoi
+{
+    text-align: center;
+    color:#a3a1a2;
+}
+.page4 .col-md-4 img{
+    width: 100%;
+}
+.page4 .col-md-4 .detail
+{
+    padding: 35px 20px;
+    border: 0.3px solid #f65a3a;
+    font-size: 17px;
+    font-weight: bold;
+}
+.page4 .col-md-4 p
+{
+    color: #a3a1a2;
+}
+.page4 .fas,.page4 .far
+{
+    color: #f65a3a;
+    padding: 10px;
+}
+.trong1, .trong2
+{
+    display: inline-flex;
+    padding-top:15px;
+}
+.price
+{
+    background: #f65a3a;
+    width: 40%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 5px;
+    color: #f5f3f4;
+    margin: 30px;
+}
+.price:hover{
+    background: black;
+}
+.page6{
+    background: white;
+}
+.best{
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Vladimir Script';
+    color:white;
+    padding-bottom: 25%;
+    font-weight: bold;
+}
+.page5
+{
+    display: inline-flexbox;
+}
+.page5 img{
+    margin-top: 25%;
+    margin-left: 45%;
+   
+}
+.tieude6
+{
+    text-align: center;
+    font-size: 50px;
+    padding: 10%;
+}
+.page6 .col-sm-3 .the1
+{
+    background-image: url("../images/diving.jpg");
+    background-repeat: no-repeat;   
+    
+    padding: 80% 0;
+    padding-left: 15px;
+    font-size: 20px;
+   
+}
+.page6 .col-sm-3 .the2
+{
+    background-image: url("../images/white\ sand.jpg");
+    background-repeat: no-repeat;
+    padding: 80% 0;
+    padding-left: 15%;
+    font-size: 20px;
+}
+.page6 .col-sm-3 .the3
+{
+    background-image: url("../images/family\ fun.jpg");
+    background-repeat: no-repeat;
+    padding: 80% 0;
+    padding-left: 15%;
+    font-size: 20px;
+}
+.page6 .col-sm-3 .the4
+{
+    background-image: url("../images/old\ colorino.jpg");
+    background-repeat: no-repeat;
+    padding: 80% 0;
+    padding-left: 15%;
+    font-size: 20px;
+}
+.page6 .col-sm-3 .the5
+{
+    background-image: url("../images/romantic\ gateway.jpg");
+    background-repeat: no-repeat;
+    padding: 80% 0;
+    padding-left: 15%;
+    font-size: 20px;
+}
+.page6 .col-sm-3 .the6
+{
+    background-image: url("../images/snorkeling.jpg");
+    background-repeat: no-repeat;
+    padding: 80% 0;
+    padding-left: 15%;
+    font-size: 20px;
+}
+.page6 .col-sm-3 .the7
+{
+    background-image: url("../images/beautifil\ sceneri.jpg");
+    background-repeat: no-repeat;
+    padding: 80% 0;
+    padding-left: 15%;
+    font-size: 20px;
+}
+.page6 .col-sm-3 .the8
+{
+    background-image: url("../images/outdor\ aventer.jpg");
+    background-repeat: no-repeat;
+    padding: 80% 0;
+    padding-left: 15%;
+    font-size: 20px;
+    
+}
+.page6 .col-sm-3 a
+{
+    color:white !important;
+}
+.page7
+{
+    background-image: url("../images/bgbooktour.jpg");
+    padding-left: 10%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.tieude7 p{
+    padding-left: 10%;
+    font-size: 20px;
+}
+.tieude7
+{
+    padding-top: 20%;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+.booktour
+{
+    background: #f65a3a;
+    text-align: center;
+    color: white;
+   
+    height: 15%;
+    padding: 10px;
+    border-radius: 40px;
+    display: inline-flex;
+}
+.fab
+{
+    padding:10px;
+}
+.duoi7
+{
+    padding-bottom: 18%;
+    padding-left: 10%;
+}
+.booktour:hover{
+    background:black;
+}
+.page8
+{
+    background:white;
+}
+.tren8
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding: 10%;
+}
+.tren8 p{
+    font-size: 25px;
+    color: #a3a1a2;
+}
+.cap{
+font-family: 'Times New Roman', Times, serif;
+}
+.captren
+{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+.capduoi
+{
+    color: #a3a1a2;
+    font-size: 20px;
+}
+.page8 img{
+    width:100%;
+}
+.page8 .col-md-4
+{
+    padding:20px 10px;
+}
+.readmore a
+{
+    color: black !important;
+    padding-right: 3px;
+}
+.readmore .fas{
+    
+    color: #f65a3a;
+}
+.readmore
+{
+    padding-bottom: 10%;
+}
+.readmore a:hover{
+text-decoration: none;
+padding-right: 0;
+}
+.page9
+{
+    background-image: url("../images/bg9.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.tren9
+{
+    padding-top: 15%;
+    color: white;
+    font-size: 45px;
+    text-align: center;
+}
+.nhap
+{
+    padding: 5% 0;
+    padding-left: 40%;
+   
+}
+input
+{
+    width: 30%;
+    padding: 10px;
+    border-radius: 350px;
+}
+.subcribe
+{
+    background: #f65a3a;
+    text-align: center;
+    color: white;
+    height: 15%;
+    padding:15px 20px;
+    border-radius: 40px;
+    display: inline-flex;
+}
+.put
+{
+    padding-left: 43%;
+    padding-bottom: 15%;
+    width: 25%;
+}
+.subcribe:hover
+{
+background:black;
+}
+.contactus
+{
+    background: #191919;
+    color: white;
+    padding: 5%;
+}
+.sdt
+{
+    display: flex;
+}
+.sdt2
+{
+color: #a3a1a2 !important;
+}
+.contac
+{
+    background: #f65a3a;
+    border-radius: 70px;
+    padding: 20px;
+    text-align: center;
+    
+}
+.contac:hover, .contac a:hover{
+    background: black;
+    text-decoration: none;
+}
+.contac a{
+    color: #f5f3f4 !important;
+}
+button .fas
+{
+   color: #f65a3a;
+}
+.up
+{
+    display: inline-flex;
+}
+
+footer{
+    background: black;
+}
+.iconfoot .fab
+{
+color: white;
+}
+.traifoot
+{
+color: #a3a1a2;
+padding-top: 10%;
+}
+.traifoot h5
+{
+color: white;
+}
+.iconfoot
+{
+    padding-bottom: 10%;
+}
+.menu
+{
+    color: white !important;  
+
+}
+.menu .nav-item
+{
+    padding: 0 15px;
+}
+.menu .nav-item a:hover
+{
+    color: #f65a3a;
+}
+#collapsibleNavId2, #collapsibleNavId3, #collapsibleNavId4
+{
+  padding: 0;
+}
+.but1 .fas
+{
+    z-index: 999;
+    position: fixed;
+    bottom: 7px;
+    background: white;
+    padding: 15px;
+    font-size: 40px;
+    color: #f65a3a;
+    border-radius: 50px;
+    bottom: 10%;
+    left: 5%;
+}
+.but2 .fas
+{
+    right: 5%;
+    z-index: 999;
+    position: fixed;
+    background: #f65a3a;
+    padding: 15px;
+    font-size: 40px;
+    color:white ;
+    bottom: 10%;
+    border-radius: 40px;
+}
+footer .nav-item
+{
+    padding: 10px;
+}
+#home
+{
+    color: #191919;
+}
